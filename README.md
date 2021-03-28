@@ -1,2 +1,2 @@
-# sample-repo
-更新
+# Git動画講座用
+main project
